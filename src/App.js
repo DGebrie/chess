@@ -1,4 +1,4 @@
-import Chessboard from "./components/Chessboard.tsx";
+import Chessboard from "./components/Chessboard/Chessboard.tsx";
 import "./App.css";
 
 function App() {
